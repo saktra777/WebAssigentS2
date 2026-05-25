@@ -1,5 +1,5 @@
 ### For Frontend 
-* * create a **.env.local**file
+* * create a **.env.local** file
 ```
 VITE_STRIPE_PK=""
 ```
